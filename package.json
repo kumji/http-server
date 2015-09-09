@@ -1,0 +1,26 @@
+{
+  "name": "httpserver",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumji/http-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumji/http-server/issues"
+  },
+  "homepage": "https://github.com/kumji/http-server#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "chai-http": "^1.0.0",
+    "mocha": "^2.3.2",
+    "time": "^0.11.4",
+    "url": "^0.11.0"
+  }
+}
